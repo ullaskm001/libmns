@@ -19,4 +19,4 @@ This is a web-based Library Management System where users can issue and return b
 - **Admin Panel:** Admins can manage books and users through the admin panel.
 
 - ## Screenshots
-- 
+![Home](homepg.png)
